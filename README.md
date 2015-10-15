@@ -1,0 +1,2 @@
+# submodulesDetailTestMaster
+Test of submodules
