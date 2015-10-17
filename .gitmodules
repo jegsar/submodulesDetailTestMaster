@@ -1,3 +1,6 @@
 [submodule "submodulesDetailTestLib"]
 	path = submodulesDetailTestLib
 	url = https://github.com/jegsar/submodulesDetailTestLib.git
+[submodule "jegsars-hello-world-test"]
+	path = jegsars-hello-world-test
+	url = https://github.com/jegsar/jegsars-hello-world-test.git
