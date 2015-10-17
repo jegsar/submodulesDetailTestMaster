@@ -1,0 +1,3 @@
+[submodule "submodulesDetailTestLib"]
+	path = submodulesDetailTestLib
+	url = https://github.com/jegsar/submodulesDetailTestLib.git
